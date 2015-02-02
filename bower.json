@@ -1,0 +1,17 @@
+{
+  "name": "roaringbunny-html-lib",
+  "version": "1.0.0",
+  "homepage": "https://github.com/roaringbunny/html-lib",
+  "authors": [
+    "RoaringBunny <roaringbunny@roaringbunny.com>"
+  ],
+  "description": "Scripts for supporting new HTML projects",
+  "license": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
